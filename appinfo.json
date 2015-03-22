@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "t.ramachandran.14@gmail.com",
+    "longName": "flying emoji animation",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/alien.png",
+                "name": "IMAGE_ALIEN",
+                "type": "png"
+            },
+            {
+                "file": "images/alien emoji.png",
+                "name": "IMAGE_ALIEN_EMOJI",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "flying emoji animation",
+    "uuid": "33719931-86de-4357-92a1-f274dc241b25",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
